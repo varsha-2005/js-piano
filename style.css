@@ -72,7 +72,7 @@ li {
 } */
 @media (max-width: 800px) {
   .outline {
-    margin: 150px 100px;
+    margin: 250px 100px;
     transform: rotate(90deg);
   }
 }
